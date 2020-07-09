@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ahoj a nazdar! 👋
+
+Info o mě bude brzy doplněno, zatím se podívejte na www.milanhybner.cz.
 
 <!--
 **milanhybner/milanhybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
